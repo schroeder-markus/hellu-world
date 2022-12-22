@@ -5,9 +5,6 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=onzzA3VirMk
 " target="_blank"><img src="http://img.youtube.com/vi/onzzA3VirMk/0.jpg" 
 alt="yo" width="240" height="180" border="10"/></a>
-
-
-
 <!--
 **rockadub/rockadub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
