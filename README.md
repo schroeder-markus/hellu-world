@@ -1,6 +1,6 @@
 ### Hi there and welcome to my GitHub page 👋
 
-- 🔭 I’m currently working on ... my GitHub-Page 🤓
+- 🔭 I’m currently working on... my GitHub-Page 🤓
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=onzzA3VirMk
 " target="_blank"><img src="http://img.youtube.com/vi/onzzA3VirMk/0.jpg" 
