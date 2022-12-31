@@ -1,4 +1,4 @@
-### Hi there and welcome to my GitHub page 👋
+### Hi there and welcome to my GitHub page👋
 
 - 🔭 I’m currently working on... my GitHub-Page 🤓
 
